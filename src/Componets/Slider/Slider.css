@@ -1,0 +1,64 @@
+.parent_container {
+    width: 100%!important;
+    /* border: 2px solid orange; */
+    display: flex!important;
+    align-items: center;
+    flex-direction: column-reverse;
+    padding: 48px;
+}
+.user_profiledetails {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.userIMg {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+}
+.user_name_De {
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.comment_ {
+    width: 558px;
+    font-size: 21px;
+    padding: 10px;
+    text-align: center;
+}
+.carousel-control-next-icon,.carousel-control-prev-icon {
+    background-color: black;
+}
+.carousel-indicators [data-bs-target] {
+
+    background-color: #8067b3;
+}
+.slick-dots{
+    display: none!important;
+}
+.slick-prev, .slick-next {
+    color: white!important;
+    background: black!important;
+    padding: 14px!important;
+    display: flex!important;
+    align-items: center!important;
+    justify-content: center!important;
+    text-align: center!important;
+}
+@media screen and (max-width:690px) {
+    .comment_ {width: 100%;
+    text-align: center;}
+    .parent_container {
+    width: 95%!important;}
+}
+@media screen and (max-width:600px) {
+    .parent_container{
+        padding: 48px 0;
+    }
+}

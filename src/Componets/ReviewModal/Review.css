@@ -1,0 +1,72 @@
+.ReviewContainer {
+    padding: 26px 0;
+}
+.title {
+    padding: 10px 0;
+    font-size: 21px;
+}
+.ReviewContainer .container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.card {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 2px rgba(0,0,0,2);
+    padding: 18px;
+    border-radius: 4px;
+    width: 100%;
+    margin: 5px;
+}
+.user_profiles {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-self: flex-start;
+    align-self: stretch;
+    /* border: 1px solid orange; */
+    margin: 0;
+    padding: 3px;
+    width: 219px;
+    margin-right: 21px;
+    flex: 1;
+}
+.userImages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.user_details {
+    width: 100%;
+    /* border: 1px solid orange; */
+    text-align: center;
+}
+.username {
+    font-size: 17px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.comment_user {
+    font-size: 17px;
+    font-weight: 400;
+    color: darkslategray;
+    width: 78%;
+}
+@media screen and (max-width:460px) {
+    .card{
+        flex-direction: column;
+    align-items: self-start;
+    }
+    .user_profiles {
+    flex-direction: revert;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.comment_user {width: 100%;}
+}
