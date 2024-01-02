@@ -1,0 +1,6 @@
+![Screenshot from 2024-01-02 19-14-40](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/a9e8a309-3404-44fd-800a-a869ea203fd1)
+![Screenshot from 2024-01-02 19-14-48](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/78dd4021-868b-4430-b095-73428eb9db64)
+![Screenshot from 2024-01-02 19-15-00](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/77d1a422-0827-4012-ab01-4ca21608f966)
+![Screenshot from 2024-01-02 19-15-06](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/e6e51725-275d-46a5-a2eb-5c5e2153d8b8)
+![Screenshot from 2024-01-02 19-15-55](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/5f57f3dc-67a9-43e4-93fc-84a4745995e9)
+![Screenshot from 2024-01-02 19-16-03](https://github.com/itsmeAryan/nextjs_assignment1/assets/85377449/df54167c-cb71-4dce-aa45-3ddb6b1bc049)
